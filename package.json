@@ -74,8 +74,8 @@
     "yaml": "^1.10.2"
   },
   "scripts": {
-    "build": "tailwind build -i tailwind/main.css -o public/tailwind.css",
-    "watch": "tailwind build -i tailwind/main.css -o public/tailwind.css -w"
+    "build": "tailwind build -i tailwind/main.css -o public/files/tailwindcss/tailwind.css",
+    "watch": "tailwind build -i tailwind/main.css -o public/files/tailwindcss/tailwind.css -w"
   },
   "keywords": [],
   "author": "",
